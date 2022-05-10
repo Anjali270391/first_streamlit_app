@@ -59,7 +59,7 @@ except URLError as e:
 #streamlit.dataframe(fruityvice_normalized)
 
 # don't run anything past here while we troubleshoot
-streamlit.stop()
+#streamlit.stop()
 
 #import snowflake.connector
 
